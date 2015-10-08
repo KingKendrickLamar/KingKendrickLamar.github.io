@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>Kendrick Lamar</title>
+        <link rel="stylesheet" 
+        href="css/bootstrap.min.css"> 
+    <style>
+          h1 {
+              font-size: 100px;
+              color:gold;
+    
+    </head>
+</html>
